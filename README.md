@@ -9,3 +9,5 @@ run cb_start.bat
 run B:\CodeBlocks\codeblocks.exe
 run cb_stop.bat  
 ```
+
+https://4programmers.net/Forum/C_i_C++/371180-jaki_lekki_kompilator_c_dla_poczatkujacego?p=1943869#id1943869
